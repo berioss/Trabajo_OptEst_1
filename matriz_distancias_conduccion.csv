@@ -1,0 +1,13 @@
+Sitio,Javits Center,Times Square,Rockefeller Center,Grand Central Terminal,NY Public Library,Union Square,Washington Square Park,Madison Square Garden,Columbus Circle,One World Trade Center,New York Stock Exchange,South Street Seaport
+Javits Center,0.0,1.97,2.88,2.63,2.24,3.45,3.75,1.38,2.83,5.03,5.93,7.68
+Times Square,1.97,0.0,1.22,0.98,0.92,3.14,3.63,1.4,1.56,5.8,6.36,8.26
+Rockefeller Center,2.88,1.22,0.0,0.71,0.65,2.97,3.84,2.3,1.75,6.41,6.55,8.45
+Grand Central Terminal,2.63,0.98,0.71,0.0,0.42,2.74,3.61,2.07,2.46,6.18,6.32,8.22
+NY Public Library,2.24,0.92,0.65,0.42,0.0,2.32,3.19,1.65,2.71,5.76,5.9,7.8
+Union Square,3.45,3.14,2.97,2.74,2.32,0.0,1.24,2.38,4.72,3.66,3.65,5.54
+Washington Square Park,3.75,3.63,3.84,3.61,3.19,1.24,0.0,2.77,5.19,2.69,3.11,5.0
+Madison Square Garden,1.38,1.4,2.3,2.07,1.65,2.38,2.77,0.0,2.41,5.03,5.74,7.64
+Columbus Circle,2.83,1.56,1.75,2.46,2.71,4.72,5.19,2.41,0.0,7.19,7.75,9.65
+One World Trade Center,5.03,5.8,6.41,6.18,5.76,3.66,2.69,5.03,7.19,0.0,0.94,2.69
+New York Stock Exchange,5.93,6.36,6.55,6.32,5.9,3.65,3.11,5.74,7.75,0.94,0.0,1.9
+South Street Seaport,7.68,8.26,8.45,8.22,7.8,5.54,5.0,7.64,9.65,2.69,1.9,0.0
