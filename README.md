@@ -22,15 +22,15 @@ se procesan para:
   4. Modelado del problema de ruteo como un problema de optimización estocástica.
   5. Resolución del modelo y análisis de resultados.
 
-- /data/
+- /csv/
   Carpeta (no incluida en este repositorio) destinada a almacenar las bases de datos de viajes en taxi y tiempos de trayecto.
 
-- /images/
-  Gráficas y resultados visuales generados en el análisis (por ejemplo, boxplots, histogramas de tiempos, rutas óptimas).
+- /imagenes/
+  Gráficas y resultados visuales generados en el análisis.
 
 ⚙️ Requerimientos
 -----------------
-El proyecto está implementado en Python 3.x y usa principalmente las siguientes librerías:
+El proyecto está implementado en Python 3.12.11 y usa principalmente las siguientes librerías:
 - numpy
 - pandas
 - matplotlib / seaborn
